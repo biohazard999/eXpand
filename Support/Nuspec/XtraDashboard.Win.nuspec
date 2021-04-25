@@ -19,7 +19,7 @@
       <dependency id="eXpandSecurity" version="20.2.601.0" />
       <dependency id="eXpandSecurityWin" version="20.2.601.0" />
       <dependency id="eXpandSystemWin" version="20.2.601.0" />
-      <dependency id="Xpand.XAF.Modules.ModelMapper" version="4.202.53" />
+      <dependency id="Xpand.XAF.Modules.ModelMapper" version="4.202.54" />
     </dependencies>
   </metadata>
   <files>

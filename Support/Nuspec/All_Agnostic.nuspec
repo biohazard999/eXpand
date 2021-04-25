@@ -23,8 +23,6 @@
       <dependency id="eXpandFileAttachment" version="20.2.601.0" />
       <dependency id="eXpandImportWizard" version="20.2.601.0" />
       <dependency id="eXpandIO" version="20.2.601.0" />
-      <dependency id="eXpandJobSchedulerJobs" version="20.2.601.0" />
-      <dependency id="eXpandJobScheduler" version="20.2.601.0" />
       <dependency id="eXpandLib" version="20.2.601.0" />
       <dependency id="eXpandLogic" version="20.2.601.0" />
       <dependency id="eXpandMapView" version="20.2.601.0" />
