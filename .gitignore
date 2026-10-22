@@ -631,3 +631,6 @@ $RECYCLE.BIN/
 .pi/extensions/pi-dev/*.db
 .pi/extensions/pi-dev/*.db-wal
 .pi/extensions/pi-dev/*.db-shm
+
+# graphify's generated code graph: a build artifact, never source
+graphify-out/
